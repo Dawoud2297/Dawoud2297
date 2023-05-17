@@ -67,7 +67,7 @@
 
 ###
 
-<p align="left">I'm A Front-End Web Developer ... from ....Egypt<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm A Front-End Web Developer ... from ....Egypt<br><br>- 🔭 I’m working as Front-End Developer...<br>- 📚 I'm currently learning NextJs | TypeScript...<br>- ⚡ In my free time I Play Chess...</p>
 
 ###
 
