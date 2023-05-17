@@ -8,7 +8,7 @@
 <!-- - 🌱 I’m currently ... Full Stack(MERN-STACK) -->
 <!-- -Now..Iam junior Full-Stack Developer...with more than 2 years experience -->
 <!-- ![a2m](https://github.com/Dawoud2297/Dawoud2297/assets/86451115/dd82d5af-0687-40b1-a117-ad66b12c408b) -->
-<!--  
+ 
  <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawoud2297&label=Profile%20views&color=0e75b6&style=flat" alt="dawoud2297" /> </p>
@@ -31,8 +31,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dawoud2297&show_icons=true&locale=en&layout=compact" alt="dawoud2297" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dawoud2297&show_icons=true&locale=en" alt="dawoud2297" /></p>
- -->
- 
+
+<!--  
  <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
@@ -102,3 +102,4 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+ -->
