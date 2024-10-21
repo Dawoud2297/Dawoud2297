@@ -35,6 +35,8 @@
  
  <div align="center">
   
+<h1 align="center">hey there 👋<br>I'm Mahmoud Dawood</h1>
+
 </div>
 
 ###
@@ -58,8 +60,6 @@
 </div>
 
 ###
-
-<h1 align="center">hey there 👋<br>I'm Mahmoud Dawood</h1>
 
 ###
 
